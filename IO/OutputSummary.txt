@@ -1,0 +1,10 @@
+When n = 1, Recursion | Iteration total time in nanoseconds: 28557100 |95000
+When n = 2, Recursion | Iteration total time in nanoseconds: 45500 |34400
+When n = 3, Recursion | Iteration total time in nanoseconds: 86100 |85300
+When n = 4, Recursion | Iteration total time in nanoseconds: 124600 |209300
+When n = 5, Recursion | Iteration total time in nanoseconds: 244300 |269800
+When n = 6, Recursion | Iteration total time in nanoseconds: 423200 |1565700
+When n = 7, Recursion | Iteration total time in nanoseconds: 693400 |1623200
+When n = 8, Recursion | Iteration total time in nanoseconds: 1810300 |1812300
+When n = 9, Recursion | Iteration total time in nanoseconds: 3104000 |3174600
+When n = 10, Recursion | Iteration total time in nanoseconds: 6157600 |3515300
